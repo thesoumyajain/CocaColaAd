@@ -1,0 +1,24 @@
+.rectangle {
+    height: 250px;
+    width: 300px;
+  }
+  .cokead {
+    height:  250px;
+    width:  300px;
+  }
+  .text {
+    position: absolute;
+    top: 13%;
+    left: 13%;
+    transform: translate(-50%, -50%);
+    color: #FAEBD7;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  .anim {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 10.5%;
+    top: 17%;
+    border-radius: 50px;
+  }
